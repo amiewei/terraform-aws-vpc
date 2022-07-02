@@ -4,6 +4,9 @@ Terraform module which creates VPC resources on AWS.
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
+## Infrastructure Diagram
+[![Pluralith Run Status](https://api.pluralith.com/v1/docs/595050659/status)](https://pluralith.com)<br></br>[![Pluralith Last Diagram](https://api.pluralith.com/v1/docs/595050659/diagram)](https://app.pluralith.com/#/orgs/770597161/projects/595050659/runs)
+
 ## Usage
 
 ```hcl
