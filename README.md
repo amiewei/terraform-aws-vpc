@@ -2,10 +2,9 @@
 
 Terraform module which creates VPC resources on AWS.
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 ## Infrastructure Diagram
-[![Pluralith Run Status](https://api.pluralith.com/v1/docs/status?projectId=595050659&connectorId=669424855)](https://pluralith.com)<br></br>[![Pluralith Last Diagram](https://api.pluralith.com/v1/docs/get?projectId=595050659&connectorId=669424855)](https://app.pluralith.com/#/orgs/770597161/projects/595050659/runs)
+
+[![Pluralith Run Status](https://api.pluralith.com/v1/docs/status?orgId=770597161&projectId=202521849&connectorId=231885849)](https://pluralith.com)<br></br>[![Pluralith Last Diagram](https://api.pluralith.com/v1/docs/get?orgId=770597161&projectId=202521849&connectorId=231885849)](https://app.pluralith.com/#/orgs/770597161/projects/202521849/runs)
 
 ## Usage
 
