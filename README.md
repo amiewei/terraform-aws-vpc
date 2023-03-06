@@ -4,7 +4,7 @@ Terraform module which creates VPC resources on AWS.
 
 ## Infrastructure Diagram
 
-[![Pluralith Run Status](https://api.pluralith.com/v1/docs/status?orgId=770597161&projectId=202521849&connectorId=231885849)](https://pluralith.com)<br></br>[![Pluralith Last Diagram](https://api.pluralith.com/v1/docs/get?orgId=770597161&projectId=202521849&connectorId=231885849)](https://app.pluralith.com/#/orgs/770597161/projects/202521849/runs)
+[![Pluralith Run Status](https://api.pluralith.com/v1/docs/status?orgId=330054089&projectId=aws-vpc-module&connectorId=54291911)](https://pluralith.com)<br></br>[![Pluralith Last Diagram](https://api.pluralith.com/v1/docs/get?orgId=330054089&projectId=aws-vpc-module&connectorId=54291911)](https://app.pluralith.com/#/orgs/330054089/projects/aws-vpc-module/runs)
 
 ## Usage
 
