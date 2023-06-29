@@ -1,3 +1,7 @@
+provider "aws" {
+  region = "eu-west-1" # Replace with your desired AWS region
+}
+
 locals {
   max_subnet_length = max(
     length(var.private_subnets),
